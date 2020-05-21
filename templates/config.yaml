@@ -1,3 +1,6 @@
 default: 
-    extension: .vim
+    filename: base16.vim
+    output: .vim/colors
+default-24: 
+    filename: base24.vim
     output: .vim/colors
